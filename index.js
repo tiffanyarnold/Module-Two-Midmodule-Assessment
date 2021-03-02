@@ -1,3 +1,5 @@
+//My SMART Goal First Draft: Jimmy left a comment stating I could use querySelector('ul) because there is only one ul on the whole page, burt he also stated the solution is safer and better practice. I always think of ways to make my code safe because when I'm working for a company, I want to make sure my peers can understand my code and add to it.
+
 document.addEventListener("DOMContentLoaded", () => {
     const roll = document.querySelector("#rollthedice");
     let rollTwo;
